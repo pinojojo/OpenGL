@@ -9,4 +9,5 @@
 	url = https://github.com/g-truc/glm
 [submodule "OpenGL-Core/vendor/imgui"]
 	path = OpenGL-Core/vendor/imgui
-	url = https://github.com/TheCherno/imgui
+	url = git@github.com:pinojojo/imgui.git
+	branch = docking
